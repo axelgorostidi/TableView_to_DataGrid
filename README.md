@@ -5,10 +5,7 @@ Change Table View component to a Data Grid in Servoy Framework.
 
 * Pegar el script "cambiarADataGrid.py" en la carpeta donde tengamos los archivos de extensión ".frm" que contengan las tablas a convertir.
 * Pegar el archivo "forms.txt" en la misma carpeta que en el paso anterior.
-* Escribir los nombres de los formularios, en lineas separadas sin dejar espacios innecesarios. Escribirlos con la extensión ".frm". Ejemplo:
-  form1.frm
-  form2.frm
-  form3.frm
+* Escribir los nombres de los formularios, en lineas separadas sin dejar espacios innecesarios. Escribirlos con la extensión ".frm". Ejemplo en "forms.txt".
 * Ejecutar script "cambiarADataGrid.py".
 * Eliminar los dos archivos del workspace de Servoy.
 * Revisar y modificar lo que se requiera mediante la interfaz de Servoy.
@@ -28,10 +25,7 @@ ________________________________________________________________________________
 
 * Paste the script "changeADataGrid.py "in the folder where we have the files with the extension" .frm "that contain the tables to be converted.
 * Paste the file "forms.txt" in the same folder as in the previous step.
-* Write the names of the forms, on separate lines without leaving unnecessary spaces. Write them with the extension ".frm". Example:
-  form1.frm
-  form2.frm
-  form3.frm
+* Write the names of the forms, on separate lines without leaving unnecessary spaces. Write them with the extension ".frm". Example in "forms.txt"
 * Execute "changeADataGrid.py" script.
 * Delete the two files from the Servoy workspace.
 * Review and modify what is required through the Servoy interface.
